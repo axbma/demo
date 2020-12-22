@@ -1,6 +1,6 @@
 # demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parnassus/demo/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parnassus/demo/main?urlpath=lab)
 
 
 Create virtual env and activate
