@@ -1,6 +1,7 @@
 # demo
 
-Installation
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parnassus/demo/master?urlpath=lab)
+
 
 Create virtual env and activate
 `python3 -m venv env`
